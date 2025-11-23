@@ -15,3 +15,17 @@ Implement router-on-a-stick using subinterfaces
 Verify connectivity using ping and show commands
 
 Troubleshoot trunking and VLAN membership issues
+
+# Network Topology
+
+**Devices Used**
+
+Cisco 3560-24PS Switch (LSW1)
+
+Cisco 3560-24PS Switch (LSW2)
+
+Cisco 2901 Router (R1)
+
+PCs for each VLAN
+
+**Topology Diagram:**
